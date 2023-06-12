@@ -599,6 +599,111 @@ button{
         border-radius: 10px;
     }
 }
+@media only screen and (max-width: 412px){
+    .d1{
+        background-color:darkkhaki;
+       height: 205vw;
+        width:120vw;
+        position: relative ;
+        left: 0vw;
+        top: 0vw;
+        
+    }
+    .d2{
+        width:110vw;
+        height: 200vw;
+        position: relative;
+        left: 5vw;
+        border-radius: 20px;
+        top: 10px;
+    }
+    #bg{ 
+       
+        background-position:center;
+        background-repeat: no-repeat;
+       background-size: 110vw 195vw;  
+         
+    } 
+    .box {
+        width: 300px; 
+        height: 180px;  
+        border: 3px #000;
+        border-radius: 50%/100px 100px 0 0;
+        position: relative;
+        top: 480px;
+        right: 2px;
+        background-color: grey;
+        border-bottom-left-radius: none;
+      }
+    
+    .box1{
+        width: 200px; 
+        height: 150px;  
+        border:  3px #000;
+        border-radius:  50%/100px 100px 0 0 ;
+        position: relative;
+        top: 320px;
+        left: 255px;
+        background-color: grey;
+        border-bottom-right-radius: none;
+      } 
+      #p2{
+        top: 10px;
+        left: 100px;
+        font-size: 23px;
+        }
+     hr{
+        top: 20px;
+        width: 80px;
+        left: 100px;
+     }
+     button{
+        height: 40px;
+        width: 150px;
+        border-radius: 20px;
+        font-size: 13px;
+        font-weight: bold;
+      position: relative;
+      left: 280px;
+      top: 300px;
+    }
+    #p1{
+        font-size: 15px;
+        position: relative;
+        left:140px;
+        top: 350px;
+        color: white;
+    }
+    #b1{
+        height: 50px;
+        width: 100px;
+        font-size: 13px;
+        top: 80px;
+        left: 3%;
+        border-radius: 10px;
+        
+    }
+    #b2{
+        height: 50px;
+        width: 100px;
+        font-size: 13px;
+        top: 80px;
+        left: 10%; 
+        border-radius: 10px;   
+    }
+    #b3{
+       
+        height: 50px;
+        width: 100px;
+        font-size: 20px;
+       top: 90px;
+       left: 10%;
+        border-radius: 10px;
+    }
+}
+  
+
+
 
   
 
